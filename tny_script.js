@@ -6,8 +6,8 @@
    Tutorial Case
 
    Countdown Clock
-   Author: 
-   Date:   
+   Author: Osman Hassan
+   Date:  4/11/2025 
 
 */
 
