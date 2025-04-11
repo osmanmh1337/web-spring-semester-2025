@@ -11,6 +11,8 @@
 
 */
 
+window.alert("Welcome to Tulsa");
+
 runClock();
 setInterval("runClock()", 1000);
 
@@ -29,7 +31,7 @@ function runClock() {
     document.getElementById("dateNow").innerHTML =
         dateStr + "<br />" + timeStr;
 
-    window.alert("Welcome to Tulsa");
+
 
     /* Calculate the days until January lst */
 
